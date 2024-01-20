@@ -3,7 +3,7 @@
 
 float deltaTime = 1.0f / 30.0f;
 
-const int ENEMY_SPACING_X = 2.0; //Sets the enemy spacing
+const int ENEMY_SPACING_X = 7.0; //Sets the enemy spacing
 const int ENEMY_SPACING_Y = 7.0;
 
 Horde::Horde()
